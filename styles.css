@@ -5,7 +5,8 @@ body{
     padding: 60px;
 }
 img{
-    width:400px;
+    width:800px;
+    height: 600px;
 }
 .alignRight{
     display: flex;
@@ -16,4 +17,7 @@ a{
     font-size: 18px;
     text-decoration: none;
     color: black;
+}
+#centerTitle{
+    text-align: center;
 }
