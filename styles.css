@@ -1,0 +1,9 @@
+body{
+    margin: 0 auto;
+    width: 800px;
+    border: 2px dashed red;
+    padding: 40px;
+}
+img{
+    width:400px;
+}
