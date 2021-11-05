@@ -4,8 +4,11 @@
 ## Description
 Recipe for bread 
 ## Setup/Installation Requirements
+Open locally using
 * Clone repo
 * Open the indes.html file in browser
+#
+Or visit deployed site
 https://apiyo4.github.io/Bread/index.html
 ## Known Bugs
 Currently there are no known bugs
