@@ -2,8 +2,18 @@ body{
     margin: 0 auto;
     width: 800px;
     border: 2px dashed red;
-    padding: 40px;
+    padding: 60px;
 }
 img{
     width:400px;
+}
+.alignRight{
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    padding-right: 30px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
 }
