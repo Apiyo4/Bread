@@ -21,7 +21,10 @@ a{
 .centerTitle{
     text-align: center;
 }
-.centerLi{
+.centerLi, p{
     margin-left: 3%;
     font-size: 18px;
+}
+#fullHeight{
+    height: 60vh;
 }
