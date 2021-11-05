@@ -14,5 +14,5 @@ Html and CSS
 ## Support and contact details
 Feel free to reach out to me annette.odingo@moringaschool.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **RPA team**
+*https://github.com/Apiyo4/Bread/blob/master/LICENSE*
+Copyright (c) 2021 **RPA team**
