@@ -28,3 +28,15 @@ a{
 #fullHeight{
     height: 60vh;
 }
+
+@media (max-width: 500px){
+    a{
+        font-size: 32px;
+    }
+    .centerLi, p{
+        font-size: 32px;
+    }
+    body{
+        border: 2px solid yellow;
+    }
+}
